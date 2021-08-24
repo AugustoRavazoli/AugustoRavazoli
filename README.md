@@ -10,5 +10,5 @@
 </div>
 
 ### ☎️ Contato
-[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-augusto-barbosa-ravazoli-33370020a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BB45zYvAUSd6A22pbmzPP6w%3D%3D)
+[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-ravazoli)
 [![Foo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravazoli.augusto@gmail.com)
